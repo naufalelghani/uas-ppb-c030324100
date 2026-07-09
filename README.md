@@ -16,7 +16,12 @@ Untuk memudahkan peninjauan dan evaluasi, berikut adalah tautan terkait proyek i
 - 📁 **Berkas Pendukung (Google Drive)**: [Akses Folder Proyek](https://drive.google.com/drive/folders/1qW2kVBV7cawzHa3tSyHhSR4lDJ3nMirY?usp=drive_link)
 
 ---
+## Alur Kerja Sistem
+Berikut adalah visualisasi alur kerja dari aplikasi Sistem Aplikasi Pesan Produk Naufal Elghani:
 
+![Alur Kerja Sistem Aplikasi](workflow.png)
+
+---
 ## Prasyarat (Requirements) & Dependensi
 Untuk dapat menjalankan proyek ini di komputer lokal, pastikan Anda telah menginstal perangkat lunak dan dependensi berikut:
 
