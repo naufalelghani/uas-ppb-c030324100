@@ -9,6 +9,14 @@ Selamat datang di repositori proyek UAS mata kuliah Pemrograman Perangkat Berger
 
 ---
 
+## Sumber Proyek & Tautan Penting
+Untuk memudahkan peninjauan dan evaluasi, berikut adalah tautan terkait proyek ini:
+- 🐙 **Repositori GitHub**: [naufalelghani/uas-ppb-c030324100](https://github.com/naufalelghani/uas-ppb-c030324100)
+- 🎥 **Video Demo Aplikasi (YouTube)**: [Tonton Presentasi Demo](https://www.youtube.com/watch?v=numlzMVAqpA)
+- 📁 **Berkas Pendukung (Google Drive)**: [Akses Folder Proyek](https://drive.google.com/drive/folders/1qW2kVBV7cawzHa3tSyHhSR4lDJ3nMirY?usp=drive_link)
+
+---
+
 ## Prasyarat (Requirements) & Dependensi
 Untuk dapat menjalankan proyek ini di komputer lokal, pastikan Anda telah menginstal perangkat lunak dan dependensi berikut:
 
