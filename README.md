@@ -60,4 +60,5 @@ uas-ppb/
 ├── backend-c030324100/       # Kode sumber sisi server (Laravel API)
 ├── mobile_c030324100/        # Kode sumber aplikasi mobile (Flutter)
 ├── db-uas-ppb-c030324100.sql # File dump database backend
+├── workflow.png              # File image workflow program
 └── README.md                 # Dokumentasi proyek
